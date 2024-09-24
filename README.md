@@ -68,7 +68,7 @@ En las primeras tres clases cada estudiante usará una cuenta personal en GitHub
 
 **Martes 8 de octubre de 2024** 
 
-→ Desarrollo de la propia infografía, en cuenta personal. 
+→ Desarrollo de la propia infografía, en cuenta personal de GitHub 
 
 **Jueves 10 de octubre de 2024**
 
