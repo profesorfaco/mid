@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
+<style type="text/css">
+	.st0{fill:#FF6347;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:24px;}
+</style>
+<image width="2000" height="1000" href="fondo.png"  transform="matrix(0.5 0 0 0.5 0 0)">
+</image>
+<text transform="matrix(1 0 0 1 520 70)" class="st0 st1 st2">NORTH AMERICAN P-51D MUSTANG</text>
+</svg>

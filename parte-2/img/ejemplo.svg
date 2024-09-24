@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1300">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Roboto');
+	.st0{fill:none;}
+	.st1{font-family: 'Roboto', sans-serif;}
+	.st2{font-size:12px;}
+	.st3{font-size:10px;}
+	.st4{fill:#3737C8;}
+	.st5{fill:#EE0000;}
+	.st6{fill:#ECECEC;}
+	.st7{fill:#FFFFFF;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st8{fill:#1D1D1B;}
+	.st9{fill:none;stroke:#3737C8;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#3737C8;stroke-miterlimit:10;stroke-dasharray:4.8517,4.8517;}
+	.st12{fill:none;stroke:#3737C8;stroke-miterlimit:10;stroke-dasharray:5.0159,5.0159;}
+	.st13{fill:none;stroke:#3737C8;stroke-miterlimit:10;stroke-dasharray:4.9396,4.9396;}
+	.st14{fill:none;stroke:#3737C8;stroke-miterlimit:10;stroke-dasharray:5.0087,5.0087;}
+	.st15{fill:none;stroke:#3737C8;stroke-miterlimit:10;stroke-dasharray:4.9246,4.9246;}
+</style>
+<rect x="18.9" y="635.3" class="st0" width="89.6" height="64.5"/>
+<text transform="matrix(1 0 0 1 18.8702 643.8567)" class="st1 st2">BADMINTON</text>
+<rect x="18.9" y="25.5" class="st0" width="69.6" height="64.5"/>
+<text transform="matrix(1 0 0 1 18.8702 34.1029)" class="st1 st2">DEPORTE</text>
+<rect x="147.8" y="25.5" class="st0" width="69.6" height="64.5"/>
+<text transform="matrix(1 0 0 1 147.8462 34.1029)" class="st1 st2">TEMAS</text>
+<rect x="305.9" y="25.5" class="st0" width="169.6" height="34.5"/>
+<text transform="matrix(1 0 0 1 305.8601 34.1029)" class="st1 st2">SUBTEMAS</text>
+<text transform="matrix(1 0 0 1 305.8601 46.1029)" class="st1 st3">(LA COLUMNA VERTEBRAL)</text>
+<rect x="509.3" y="25.5" class="st0" width="115.6" height="14.5"/>
+<text transform="matrix(1 0 0 1 509.3482 34.1029)" class="st4 st1 st2">ARCO NARRATIVO</text>
+<rect x="948.6" y="25.5" class="st0" width="202.6" height="44.5"/>
+<text transform="matrix(1 0 0 1 948.644 34.1029)" class="st5 st1 st2">ANOTACIONES DEL WIREFRAME</text>
+<text transform="matrix(1 0 0 1 948.644 46.1029)" class="st5 st1 st3">(NUMERACIÓN REFIERE A LA COLUMNA </text>
+<text transform="matrix(1 0 0 1 948.644 58.1029)" class="st5 st1 st3">VERTEBRAL DE SUBTEMAS)</text>
+<rect x="305.9" y="101.1" class="st0" width="119.6" height="844.5"/>
+<text transform="matrix(1 0 0 1 305.8601 109.7109)" class="st1 st2">1.1. POONA EN LA </text>
+<text transform="matrix(1 0 0 1 305.8601 124.1109)" class="st1 st2">INDIA</text>
+<text transform="matrix(1 0 0 1 305.8601 181.7109)" class="st1 st2">1.2. “SOUVENIR” DE </text>
+<text transform="matrix(1 0 0 1 305.8601 196.1109)" class="st1 st2">BRITÁNICO</text>
+<text transform="matrix(1 0 0 1 305.8601 253.7109)" class="st1 st2">1.3. EXPORTADO A</text>
+<text transform="matrix(1 0 0 1 305.8601 268.1109)" class="st1 st2">LAS AMÉRICAS</text>
+<text transform="matrix(1 0 0 1 305.8601 325.7109)" class="st1 st2">1.4. DE VUELTA A </text>
+<text transform="matrix(1 0 0 1 305.8601 340.1109)" class="st1 st2">ASIA</text>
+<text transform="matrix(1 0 0 1 305.8601 397.7109)" class="st1 st2">1.5. OLIMPICO </text>
+<text transform="matrix(1 0 0 1 305.8601 412.1109)" class="st1 st2">DESDE BARCELONA </text>
+<text transform="matrix(1 0 0 1 305.8601 426.5109)" class="st1 st2">1992</text>
+<text transform="matrix(1 0 0 1 305.8601 484.1109)" class="st1 st2">1.6. MAYORES </text>
+<text transform="matrix(1 0 0 1 305.8601 498.5109)" class="st1 st2">EXPONENTES</text>
+<text transform="matrix(1 0 0 1 305.8601 556.1109)" class="st1 st2">2.1. CANCHA</text>
+<text transform="matrix(1 0 0 1 305.8601 613.7109)" class="st1 st2">2.2. MALLA</text>
+<text transform="matrix(1 0 0 1 305.8601 671.3109)" class="st1 st2">2.3. VOLANTE</text>
+<text transform="matrix(1 0 0 1 305.8601 728.9109)" class="st1 st2">2.4. RAQUETA</text>
+<text transform="matrix(1 0 0 1 305.8601 786.5109)" class="st1 st2">3.1. RAQUETAZOS</text>
+<text transform="matrix(1 0 0 1 413.1601 786.5109)" class="st1 st2"> </text>
+<text transform="matrix(1 0 0 1 305.8601 844.111)" class="st1 st2">3.2. PUNTOS</text>
+<text transform="matrix(1 0 0 1 305.8601 901.7109)" class="st1 st2">3.3. SISTEMA DE </text>
+<text transform="matrix(1 0 0 1 305.8601 916.111)" class="st1 st2">PUNTAJES</text>
+<rect x="147.8" y="630.8" class="st0" width="119.6" height="64.5"/>
+<text transform="matrix(1 0 0 1 147.8462 639.3691)" class="st1 st2">2. CANCHA E </text>
+<text transform="matrix(1 0 0 1 147.8462 653.769)" class="st1 st2">IMPLEMENTOS</text>
+<rect x="147.8" y="832.2" class="st0" width="79.6" height="64.5"/>
+<text transform="matrix(1 0 0 1 147.8462 840.7496)" class="st1 st2">3. GOLPES</text>
+<text transform="matrix(1 0 0 1 147.8462 855.1495)" class="st1 st2">Y PUNTOS</text>
+<text transform="matrix(1 0 0 1 509.3482 327.033)" class="st4 st1 st2">¡CLIMAX!</text>
+<text transform="matrix(1 0 0 1 509.3669 220.5899)" class="st4 st1 st2">ACCIÓN</text>
+<text transform="matrix(1 0 0 1 509.3669 234.9899)" class="st4 st1 st2">ASCENDENTE</text>
+<text transform="matrix(1 0 0 1 509.3668 403.2912)" class="st4 st1 st2">ACCIÓN</text>
+<text transform="matrix(1 0 0 1 509.3668 417.6912)" class="st4 st1 st2">DESCENDENTE</text>
+<text transform="matrix(1 0 0 1 509.3482 483.6683)" class="st4 st1 st2">DESENLACE</text>
+<text transform="matrix(1 0 0 1 509.3482 111.8829)" class="st4 st1 st2">EXPOSICIÓN</text>
+<text transform="matrix(1 0 0 1 509.3482 749.4644)" class="st4 st1 st2">¡CLIMAX!</text>
+<text transform="matrix(1 0 0 1 509.3668 633.1586)" class="st4 st1 st2">ACCIÓN</text>
+<text transform="matrix(1 0 0 1 509.3668 647.5586)" class="st4 st1 st2">ASCENDENTE</text>
+<text transform="matrix(1 0 0 1 509.3668 841.8906)" class="st4 st1 st2">ACCIÓN</text>
+<text transform="matrix(1 0 0 1 509.3668 856.2906)" class="st4 st1 st2">DESCENDENTE</text>
+<text transform="matrix(1 0 0 1 509.3482 911.3846)" class="st4 st1 st2">DESENLACE</text>
+<text transform="matrix(1 0 0 1 509.3482 557.6207)" class="st4 st1 st2">EXPOSICIÓN</text>
+<rect x="666.9" y="63.9" class="st6" width="254.5" height="1208.3"/>
+<rect x="737.7" y="132.9" class="st7" width="113" height="60.7"/>
+<rect x="737.7" y="347.2" class="st7" width="113" height="58.7"/>
+<rect x="737.7" y="485.3" class="st7" width="113" height="59.7"/>
+<rect x="737.7" y="552.5" class="st7" width="113" height="62.7"/>
+<rect x="685.7" y="243.5" class="st7" width="219" height="84.7"/>
+<rect x="749.8" y="212.5" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="222.5" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="441.8" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="452.3" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="462.9" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="421.3" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="431.3" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="631.9" class="st8" width="88.9" height="3.3"/>
+<rect x="688.3" y="1012.3" class="st8" width="56.6" height="3"/>
+<rect x="765.9" y="1012.3" class="st8" width="56.6" height="3"/>
+<rect x="844.9" y="1012.3" class="st8" width="56.6" height="3"/>
+<rect x="749.8" y="641.9" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="650.5" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="1128.6" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="1138.6" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="1147.2" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="100.9" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="110.9" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="119.6" class="st8" width="88.9" height="3.3"/>
+<rect x="749.8" y="202.4" class="st8" width="88.9" height="3.3"/>
+<text transform="matrix(1 0 0 1 948.6445 113.2701)" class="st5 st1 st2">1.1. TEXTO</text>
+<text transform="matrix(1 0 0 1 948.6445 156.4701)" class="st5 st1 st2">1.2. GRÁFICA (BRITÁNICO TOMANDO</text>
+<text transform="matrix(1 0 0 1 948.6445 170.8701)" class="st5 st1 st2">BADMINTÓN DESDE LA INDIA)</text>
+<text transform="matrix(1 0 0 1 948.6445 214.0701)" class="st5 st1 st2">1.3. TEXTO</text>
+<text transform="matrix(1 0 0 1 948.6445 271.6701)" class="st5 st1 st2">1.4. GRÁFICA (MAPA Y LÍNEA </text>
+<text transform="matrix(1 0 0 1 948.6445 286.0701)" class="st5 st1 st2">DE CIRCUNVALACIÓN DE VUELTA</text>
+<text transform="matrix(1 0 0 1 948.6445 300.4701)" class="st5 st1 st2">EN ASIA)</text>
+<text transform="matrix(1 0 0 1 948.6445 358.0701)" class="st5 st1 st2">1.5. GRÁFICA (VIDEO O FOTO</text>
+<text transform="matrix(1 0 0 1 948.6445 372.4701)" class="st5 st1 st2">DE ENTREGA DE MEDALLA DE</text>
+<text transform="matrix(1 0 0 1 948.6445 386.8701)" class="st5 st1 st2">ORO A ALAN BUDIKUSUMA, DE </text>
+<text transform="matrix(1 0 0 1 948.6445 401.2701)" class="st5 st1 st2">INDONESIA)</text>
+<text transform="matrix(1 0 0 1 948.6445 430.0701)" class="st5 st1 st2">1.6. TEXTO (LISTADO DE MAYORES</text>
+<text transform="matrix(1 0 0 1 948.6445 444.4701)" class="st5 st1 st2">GANADORES CON BANDERITAS,</text>
+<text transform="matrix(1 0 0 1 948.6445 458.8701)" class="st5 st1 st2">INDONESIA, COREA DEL SUR,</text>
+<text transform="matrix(1 0 0 1 948.6445 473.2701)" class="st5 st1 st2">CHINA, ETC.)</text>
+<text transform="matrix(1 0 0 1 948.6445 516.4701)" class="st5 st1 st2">2.1. GRÁFICA (LA CANCHA)</text>
+<text transform="matrix(1 0 0 1 948.6445 574.0701)" class="st5 st1 st2">2.2. GRÁFICA (ZOOM A LA MALLA</text>
+<text transform="matrix(1 0 0 1 948.6445 588.4701)" class="st5 st1 st2">A LA MITAD DE LA CANCHA)</text>
+<text transform="matrix(1 0 0 1 948.6445 689.2701)" class="st5 st1 st2">2.3. TEXTO Y GRÁFICA</text>
+<text transform="matrix(1 0 0 1 948.6445 703.6702)" class="st5 st1 st2">(SOBRE EL VOLANTE, QUE ES</text>
+<text transform="matrix(1 0 0 1 948.6445 718.0701)" class="st5 st1 st2">ESA PELOTA CON PLUMAS)</text>
+<text transform="matrix(1 0 0 1 948.6445 847.6702)" class="st5 st1 st2">2.4. GRÁFICA (UNA RAQUETA</text>
+<text transform="matrix(1 0 0 1 948.6445 862.0701)" class="st5 st1 st2">EN DETALLE, CON FORMA,</text>
+<text transform="matrix(1 0 0 1 948.6445 876.4701)" class="st5 st1 st2">TAMAÑO, PESO, EMPUÑADURA,</text>
+<text transform="matrix(1 0 0 1 948.6445 890.8701)" class="st5 st1 st2">ETC.)</text>
+<text transform="matrix(1 0 0 1 948.6445 1006.0701)" class="st5 st1 st2">3.1. GRÁFICA CON TEXTO</text>
+<text transform="matrix(1 0 0 1 948.6445 1020.4701)" class="st5 st1 st2">(DISTINTOS RAQUETAZOS)</text>
+<text transform="matrix(1 0 0 1 948.6445 1150.0701)" class="st5 st1 st2">3.2. TEXTO SOBRE PUNTOS</text>
+<text transform="matrix(1 0 0 1 948.6445 1207.6702)" class="st5 st1 st2">3.3. TABLA QUE EXPLIQUE</text>
+<text transform="matrix(1 0 0 1 948.6445 1222.0701)" class="st5 st1 st2">EL SISTEMA DE PUNTAJE</text>
+<rect x="737.7" y="665.5" class="st7" width="113" height="106.7"/>
+<rect x="737.7" y="1161.9" class="st7" width="113" height="100.7"/>
+<rect x="685.7" y="791.1" class="st7" width="220" height="137.7"/>
+<rect x="684.7" y="942.4" class="st7" width="64.6" height="64.6"/>
+<rect x="761.9" y="942.4" class="st7" width="64.6" height="64.6"/>
+<rect x="840.9" y="942.4" class="st7" width="64.6" height="64.6"/>
+<rect x="688.3" y="1097" class="st8" width="56.6" height="3"/>
+<rect x="765.9" y="1097" class="st8" width="56.6" height="3"/>
+<rect x="844.9" y="1097" class="st8" width="56.6" height="3"/>
+<rect x="684.7" y="1027.1" class="st7" width="64.6" height="64.6"/>
+<rect x="761.9" y="1027.1" class="st7" width="64.6" height="64.6"/>
+<rect x="840.9" y="1027.1" class="st7" width="64.6" height="64.6"/>
+<line class="st9" x1="502.8" y1="108.2" x2="440.2" y2="108.2"/>
+<line class="st9" x1="508.8" y1="323.1" x2="440.2" y2="323.1"/>
+<line class="st9" x1="508.8" y1="404.6" x2="440.2" y2="404.6"/>
+<line class="st9" x1="508.8" y1="477.9" x2="440.2" y2="477.9"/>
+<line class="st9" x1="508.8" y1="552.2" x2="440.2" y2="552.2"/>
+<line class="st9" x1="502.8" y1="905.8" x2="440.2" y2="905.8"/>
+<line class="st9" x1="502.8" y1="841.9" x2="440.2" y2="841.9"/>
+<line class="st9" x1="502.8" y1="221.6" x2="473.2" y2="221.6"/>
+<polyline class="st9" points="440.2,145.7 473.2,145.7 473.2,294.1 440.2,294.1 "/>
+<line class="st10" x1="260.9" y1="301.4" x2="276.5" y2="301.4"/>
+<polyline class="st10" points="293.5,86.2 276.5,86.2 276.5,516.6 293.5,516.6 "/>
+<line class="st10" x1="112.2" y1="642.1" x2="127.8" y2="642.1"/>
+<polyline class="st10" points="144.8,277.9 127.8,277.9 127.8,878.3 144.8,878.3 "/>
+<line class="st10" x1="260.9" y1="640.6" x2="276.5" y2="640.6"/>
+<polyline class="st10" points="293.5,529.7 276.5,529.7 276.5,746.1 293.5,746.1 "/>
+<line class="st10" x1="260.9" y1="843.9" x2="276.5" y2="843.9"/>
+<polyline class="st10" points="293.5,760 276.5,760 276.5,928.4 293.5,928.4 "/>
+<line class="st9" x1="502.8" y1="638.3" x2="473.2" y2="638.3"/>
+<polyline class="st9" points="440.2,585.4 473.2,585.4 473.2,692.7 440.2,692.7 "/>
+<line class="st9" x1="502.8" y1="745.4" x2="473.2" y2="745.4"/>
+<polyline class="st9" points="440.2,701.5 473.2,701.5 473.2,800.9 440.2,800.9 "/>
+<text transform="matrix(1 0 0 1 147.8462 304.4354)" class="st1 st2">1. ORÍGENES</text>
+<g>
+	<g>
+		<path class="st9" d="M575.9,324.1c0.8-0.1,1.7-0.2,2.5-0.3"/>
+		<path class="st11" d="M583.2,323c45.1-8.8,18.8-45.9,89-43.3"/>
+		<path class="st9" d="M674.7,279.8c0.8,0,1.7,0.1,2.5,0.1"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st9" d="M567.9,746.8c0.8,0,1.7,0.1,2.5,0.1"/>
+		<path class="st12" d="M575.4,747.4c62.2,8.2,25,89.6,96.9,112.8"/>
+		<path class="st9" d="M674.8,860.9c0.8,0.2,1.6,0.5,2.4,0.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st9" points="914.3,1109.2 914.3,1111.7 911.8,1111.7 		"/>
+		<line class="st13" x1="906.9" y1="1111.7" x2="682.1" y2="1111.7"/>
+		<polyline class="st9" points="679.7,1111.7 677.2,1111.7 677.2,1109.2 		"/>
+		<line class="st14" x1="677.2" y1="1104.2" x2="677.2" y2="786.1"/>
+		<polyline class="st9" points="677.2,783.6 677.2,781.1 679.7,781.1 		"/>
+		<line class="st13" x1="684.6" y1="781.1" x2="909.4" y2="781.1"/>
+		<polyline class="st9" points="911.8,781.1 914.3,781.1 914.3,783.6 		"/>
+		<line class="st14" x1="914.3" y1="788.6" x2="914.3" y2="1106.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st9" points="914.3,333.7 914.3,336.2 911.8,336.2 		"/>
+		<line class="st13" x1="906.9" y1="336.2" x2="682.1" y2="336.2"/>
+		<polyline class="st9" points="679.7,336.2 677.2,336.2 677.2,333.7 		"/>
+		<line class="st15" x1="677.2" y1="328.7" x2="677.2" y2="242.5"/>
+		<polyline class="st9" points="677.2,240.1 677.2,237.6 679.7,237.6 		"/>
+		<line class="st13" x1="684.6" y1="237.6" x2="909.4" y2="237.6"/>
+		<polyline class="st9" points="911.8,237.6 914.3,237.6 914.3,240.1 		"/>
+		<line class="st15" x1="914.3" y1="245" x2="914.3" y2="331.2"/>
+	</g>
+</g>
+<line class="st10" x1="737.7" y1="132.9" x2="850.7" y2="193.6"/>
+<line class="st10" x1="850.7" y1="132.9" x2="737.7" y2="193.6"/>
+<line class="st10" x1="685.7" y1="243.5" x2="904.7" y2="328.2"/>
+<line class="st10" x1="904.7" y1="243.5" x2="685.7" y2="328.2"/>
+<line class="st10" x1="737.7" y1="347.2" x2="850.7" y2="405.9"/>
+<line class="st10" x1="850.7" y1="347.2" x2="737.7" y2="405.9"/>
+<line class="st10" x1="737.7" y1="485.3" x2="850.7" y2="545"/>
+<line class="st10" x1="850.7" y1="485.3" x2="737.7" y2="545"/>
+<line class="st10" x1="737.7" y1="552.5" x2="850.7" y2="615.2"/>
+<line class="st10" x1="850.7" y1="552.5" x2="737.7" y2="615.2"/>
+<line class="st10" x1="737.7" y1="665.5" x2="850.7" y2="772.2"/>
+<line class="st10" x1="850.7" y1="665.5" x2="737.7" y2="772.2"/>
+<line class="st10" x1="685.7" y1="791.1" x2="905.7" y2="928.8"/>
+<line class="st10" x1="905.7" y1="791.1" x2="685.7" y2="928.8"/>
+<line class="st10" x1="684.7" y1="942.4" x2="749.4" y2="1007.1"/>
+<line class="st10" x1="749.4" y1="942.4" x2="684.7" y2="1007.1"/>
+<line class="st10" x1="761.9" y1="942.4" x2="826.5" y2="1007.1"/>
+<line class="st10" x1="826.5" y1="942.4" x2="761.9" y2="1007.1"/>
+<line class="st10" x1="840.9" y1="942.4" x2="905.6" y2="1007.1"/>
+<line class="st10" x1="905.6" y1="942.4" x2="840.9" y2="1007.1"/>
+<line class="st10" x1="684.7" y1="1027.1" x2="749.4" y2="1091.8"/>
+<line class="st10" x1="749.4" y1="1027.1" x2="684.7" y2="1091.8"/>
+<line class="st10" x1="761.9" y1="1027.1" x2="826.5" y2="1091.8"/>
+<line class="st10" x1="826.5" y1="1027.1" x2="761.9" y2="1091.8"/>
+<line class="st10" x1="840.9" y1="1027.1" x2="905.6" y2="1091.8"/>
+<line class="st10" x1="905.6" y1="1027.1" x2="840.9" y2="1091.8"/>
+<line class="st10" x1="737.7" y1="1161.9" x2="850.7" y2="1262.6"/>
+<line class="st10" x1="850.7" y1="1161.9" x2="737.7" y2="1262.6"/>
+<text transform="matrix(1 0 0 1 707.8087 35.8061)" class="st1 st2">STORYBOARD / WIREFRAME</text>
+</svg>

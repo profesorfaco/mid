@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 410" style="enable-background:new 0 0 1000 410;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E4E4ED;stroke:#DB3281;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#DB3281;}
+	.st3{font-family:SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;;}
+	.st4{font-size:36px;}
+	.st5{letter-spacing:14;}
+	.st6{font-size:48px;}
+</style>
+<rect x="444.6" y="220" class="st0" width="515" height="150"/>
+<rect x="444.6" y="40" class="st0" width="515" height="150"/>
+<text transform="matrix(1 0 0 1 471.7495 81.5788)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">&lt;style&gt;</tspan><tspan x="0" y="43.2" class="st2 st3 st4 st5">	</tspan><tspan x="36" y="43.2" class="st2 st3 st4">h1{color:red;}</tspan><tspan x="0" y="86.4" class="st2 st3 st4">&lt;/style&gt;</tspan></text>
+<text transform="matrix(1 0 0 1 471.7495 263.0759)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">&lt;script&gt;</tspan><tspan x="0" y="43.2" class="st2 st3 st4 st5">	</tspan><tspan x="36" y="43.2" class="st2 st3 st4">console.log(&quot;hola&quot;);</tspan><tspan x="0" y="86.4" class="st2 st3 st4">&lt;/script&gt;</tspan></text>
+<rect x="40" y="40" class="st0" width="250" height="330"/>
+<text transform="matrix(1 0 0 1 51.0001 343.3383)" class="st2 st3 st6">.html</text>
+<polygon class="st2" points="437,108 247,108 259.3,96.6 256.6,93.6 239,110 256.6,126.4 259.3,123.4 247,112 437,112 "/>
+<polygon class="st2" points="437,288 247,288 259.3,276.6 256.6,273.6 239,290 256.6,306.4 259.3,303.4 247,292 437,292 "/>
+</svg>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Módulo Infografía Digital | Segunda parte</title>
+        <!--
+            HOLA. GRACIAS POR ASOMARTE AL CÓDIGO FUENTE. EN LO QUE SIGUE ESTOY USANDO BOOTSTRAP v5.3.3
+        -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="../style.css" rel="stylesheet">
+    </head>
+    <body>
+        <a href="#" class="fixed-top text-end p-3">
+            clase 3
+        </a>
+
+        <div class="container">
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h1 class="lh-sm">
+                        <em>CSS</em> trabaja con <em>HTML</em>, y también lo hace con el dialecto <em>SVG</em>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="tomato" class="mb-2" viewBox="0 0 16 16">
+                            <path
+                                fill-rule="evenodd"
+                                d="M0 10.5A1.5 1.5 0 0 1 1.5 9h1A1.5 1.5 0 0 1 4 10.5v1A1.5 1.5 0 0 1 2.5 13h-1A1.5 1.5 0 0 1 0 11.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zm10.5.5A1.5 1.5 0 0 1 13.5 9h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zM6 4.5A1.5 1.5 0 0 1 7.5 3h1A1.5 1.5 0 0 1 10 4.5v1A1.5 1.5 0 0 1 8.5 7h-1A1.5 1.5 0 0 1 6 5.5v-1zM7.5 4a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1z"
+                            />
+                            <path
+                                d="M6 4.5H1.866a1 1 0 1 0 0 1h2.668A6.517 6.517 0 0 0 1.814 9H2.5c.123 0 .244.015.358.043a5.517 5.517 0 0 1 3.185-3.185A1.503 1.503 0 0 1 6 5.5v-1zm3.957 1.358A1.5 1.5 0 0 0 10 5.5v-1h4.134a1 1 0 1 1 0 1h-2.668a6.517 6.517 0 0 1 2.72 3.5H13.5c-.123 0-.243.015-.358.043a5.517 5.517 0 0 0-3.185-3.185z"
+                            />
+                        </svg>
+                    </h1>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3"><em>SVG</em> es un dialecto que <em>describe los elementos que componen una gráfica vectorial</em>.</h2>
+                    <p>
+                        El SVG (<em>S</em>calable <em>V</em>ector <em>G</em>raphics) deriva de XML (e<em>X</em>tensible <em>M</em>arkup <em>L</em>anguage) y se parece mucho a HTML (<em>H</em>yper<em>T</em>ext <em>M</em>arkup
+                        <em>L</em>anguage).
+                    </p>
+                    <p>Con el markup de <a href="https://learntheweb.courses/topics/svg-cheat-sheet/">SVG se describen elementos gráficos</a>; se describen elementos tales como un círculo:</p>
+                    <p><code>&lt;circle cx="100" cy="100" r="100" /&gt;</code></p>
+                    <p>Noten que los atributos de este elemento gráfico describen la ubicación de un <em>c</em>entro, según coordenadas <em>x</em> e <em>y</em>, además de describir su <em>r</em>adio (clave en su descripción geométrica).</p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3">Cada elemento gráfico tendrá una ubicación en el lienzo de SVG. Cada ubicación dependerá de coordenadas, cuyo origen está a la <em>izquierda y arriba.</em></h2>
+                    <p>
+                        Los números crecen hacia la derecha y abajo, partiendo en cero y llegando hasta donde determine el atributo <code>viewBox</code>, como en
+                        <code>&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 7"&gt;&lt;/svg&gt;</code>
+                    </p>
+
+                    <img src="img/milimetrado.png" class="w-100 my-3" />
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3">Para cada elemento gráfico en el lienzo de SVG, los atributos deben describir su ubicación y geometría.</h2>
+                    <p>Obviamente, corresponden distintas descripciones geométricas para líneas, trazados, polígonos, textos e imágenes. Por ejemplo:</p>
+                    <pre class="py-3 px-2"><code>&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"&gt;
+    &lt;rect x="0" y="0" width="100" height="100" fill="tomato"/&gt;
+    &lt;text x="75" y="10" font-size="8"&gt;HOLA&lt;/text&gt;
+    &lt;line x1="0" y1="0" x2="100" y2="100" stroke="black" /&gt;
+    &lt;polygon points="75,25 25,50 50,75" /&gt;
+    &lt;image x="2" y="70" width="25" height="25" href="img/rusa.svg" /&gt;
+ &lt;/svg&gt;
+</code></pre>
+                    <p>Tal código resulta en lo que pueden ver en <a href="#" data-bs-toggle="modal" data-bs-target="#elModalSVG">este modal pequeño</a>.</p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3">Las descripciones de cada elemento gráfico en el lienzo de SVG pueden alterarse con CSS.</h2>
+                    <p>El CSS pueden incrustarse en el mismo SVG, entre etiquetas:</p>
+                    <pre class="py-3 px-2"><code>&lt;style type="text/css"&gt;
+    @keyframes vueltas{
+        from{ transform: rotate(0deg); transform-origin: 50% 50%; }
+        to{ transform: rotate(180deg); transform-origin: 50% 50%; }
+    }
+    line{ animation: vueltas 3s infinite linear; }
+    polygon{ stroke:black; }
+    polygon:hover{ fill:transparent; transition: all ease 1s; }
+ &lt;/style&gt;
+</code></pre>
+                    <p>
+                        Usando la <a href="https://developer.mozilla.org/es/docs/Web/CSS/@keyframes">regla arroba <em>@keyframes</em></a>, las propiedades
+                        <a href="https://developer.mozilla.org/es/docs/Web/CSS/transform"><em>transform</em></a>, <a href="https://developer.mozilla.org/es/docs/Web/CSS/animation"><em>animation</em></a>,
+                        <a href="https://developer.mozilla.org/es/docs/Web/CSS/transition"><em>transition</em></a> y la <a href="https://developer.mozilla.org/es/docs/Web/CSS/:hover">psuedo clase <em>:hover</em></a>, resulta lo que pueden
+                        ver en <a href="#" data-bs-toggle="modal" data-bs-target="#elSegundoModalSVG">otro modal pequeño</a>.
+                    </p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3">Cuando trabajamos con Adobe Illustrator, y con la mayoría de los editores de gráfica vectorizada, podemos guardar como SVG</h2>
+                    <p>Un SVG guardado en Adobe Illustrator puede abrirse en un editor de código fuente, para verse más o menos así:</p>
+                    <pre><code>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+ &lt;!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --&gt;
+ &lt;svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 1000 500" style="enable-background:new 0 0 1000 500;" xml:space="preserve"&gt;
+ &lt;style type="text/css"&gt;
+    .st0{fill:#FF6347;}
+    .st1{font-family:'ArialMT';}
+    .st2{font-size:24px;}
+ &lt;/style&gt;
+ &lt;image style="overflow:visible;enable-background:new;" width="2000" height="1000" xlink:href="fondo.png"  transform="matrix(0.5 0 0 0.5 0 0)"&gt;
+ &lt;/image&gt;
+ &lt;text transform="matrix(1 0 0 1 520 70)" class="st0 st1 st2"&gt;NORTH AMERICAN P-51D MUSTANG&lt;/text&gt;
+ &lt;/svg&gt;</code></pre>
+
+                    <p>
+                        Lo que puede simplificarse por reducción razonada, considerando que no necesitamos los comentarios antes de la etiqueta que abre el elemento <code>svg</code>, y en la misma etiqueta sólo necesitamos de dos atributos,
+                        el <code>xmlns</code> y el <code>viewBox</code>
+                    </p>
+
+                    <pre><code>&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500"&gt;
+ &lt;style type="text/css"&gt;
+    .st0{fill:#FF6347;}
+    .st1{font-family:'ArialMT';}
+    .st2{font-size:24px;}
+ &lt;/style&gt;
+ &lt;image width="2000" height="1000" href="fondo.png"  transform="matrix(0.5 0 0 0.5 0 0)"&gt;
+ &lt;/image&gt;
+ &lt;text transform="matrix(1 0 0 1 520 70)" class="st0 st1 st2"&gt;NORTH AMERICAN P-51D MUSTANG&lt;/text&gt;
+ &lt;/svg&gt;</code></pre>
+                    <p>
+                        Noten que en el CSS incrustado tenemos tres clases, desde <code>.st0</code> hasta <code>.st2</code>, que fue lo que consideró necesario el <em>SVG Export Plug-In</em> para describir el
+                        <code>&lt;text&gt;&lt;/text&gt;</code> contenido en el SVG que se ve de la siguiente manera:
+                    </p>
+
+                    <object data="img/original.svg" type="image/svg+xml" class="w-100 my-3"></object>
+
+                    <p>Si quisiera que el nombre del avión estuviera en la misma familia tipográfica del resto del documento, tengo dos alternativas</p>
+                    <p>La primera es importar la <a href="https://fonts.google.com/">Fuente de Google</a> en el CSS que ya está incrustado en el SVG:</p>
+
+                    <pre><code>&lt;style type="text/css"&gt;
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500');
+    .st0{fill:#FF6347;}
+    .st1{font-family:'Space Grotesk', sans-serif;}
+    .st2{font-size:24px;}
+ &lt;/style&gt;
+</code></pre>
+
+                    <p>
+                        La segunda alternativa consiste en quitar la definición de font-family del CSS en el SVG para luego incrustar todo su código, desde <code>&lt;svg … &gt;</code> hasta <code>&lt;/svg&gt;</code>, entre las líneas del
+                        HTML que ya está siendo afectado con su propio CSS. Estando en tal contexto, el SVG adoptará las definiciones correspondientes.
+                    </p>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" class="my-3">
+                        <style type="text/css">
+                            .st0 {
+                                fill: #ff6347;
+                            }
+                            .st2 {
+                                font-size: 24px;
+                            }
+                            .st3 {
+                                fill: white;
+                            }
+                        </style>
+                        <image width="2000" height="1000" href="img/fondo.png" transform="matrix(0.5 0 0 0.5 0 0)"></image>
+                        <text transform="matrix(1 0 0 1 520 70)" class="st0 st2">NORTH AMERICAN P-51D MUSTANG</text>
+                    </svg>
+
+                    <p class="mb-5">
+                        Tuve que hacer un pequeño ajuste para que la gráfica siguiera funcionando en su nuevo contexto: Modifiqué el vínculo de la imagen, para que ahora, desde las líneas del <code>index.html</code> donde está incrustado,
+                        se metiera a la carpeta <code>img</code> y de ahí tomara el <code>fondo.png</code>
+                    </p>
+                </div>
+            </article>
+
+            <!-- este modal pequeño -->
+            <div class="modal fade" id="elModalSVG" tabindex="-1" aria-labelledby="elModalSVGLabel" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-dialog-centered">
+                    <div class="modal-content text-black bg-white">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="elModalSVGLabel">este modal pequeño</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <svg viewBox="0 0 100 100">
+                                <rect width="100" height="100" fill="tomato" />
+                                <line x1="0" y1="0" x2="100" y2="100" stroke="black" />
+                                <polygon points="75,25 25,50 50,75" />
+                                <text x="75" y="10" font-size="8">HOLA</text>
+                                <image x="2" y="70" width="25" height="25" xlink:href="img/rusa.svg" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- otro modal pequeño -->
+            <div class="modal fade" id="elSegundoModalSVG" tabindex="-1" aria-labelledby="elSegundoModalSVGLabel" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-dialog-centered">
+                    <div class="modal-content text-black bg-white">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="elSegundoModalSVGLabel">otro modal pequeño</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <object data="img/animado.svg" type="image/svg+xml" class="w-100"></object>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN LA LÍNEA QUE SIGUE ESTOY VINCULANDO A JAVASCRIPT DE BOOTSTRAP v5.3 -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+        <!-- EN LAS LÍNEAS QUE SIGUEN ESTOY ESCRIBIENDO JAVASCRIPT ENTRE LAS ETIQUETAS CORRESPONDIENTES -->
+        <script>
+            console.log("hola");
+            var links = document.querySelectorAll("a");
+            links.forEach((l) => {
+                l.classList.add("link-light");
+            });
+        </script>
+    </body>
+</html>

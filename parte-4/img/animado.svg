@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500');
+        text{font-family:'Space Grotesk', sans-serif;}
+        @keyframes vueltas{
+            from{transform: rotate(0deg); transform-origin: 50% 50%;}
+            to{transform: rotate(180deg); transform-origin: 50% 50%;}
+        }
+        line{
+            animation: vueltas 3s infinite linear;
+        }       
+        polygon{
+            stroke:black;
+        }
+        polygon:hover{
+            fill:transparent;
+            transition: all ease 1s;
+        }
+    </style>
+    <rect width="100" height="100" fill="tomato"/>
+    <line x1="0" y1="0" x2="100" y2="100" stroke="black" />
+    <polygon points="75,25 25,50 50,75"/>
+    <text x="75" y="10" font-size="8">HOLA</text>
+    <image x="2" y="70" width="25" height="25" href="rusa.svg" />
+</svg>

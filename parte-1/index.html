@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Módulo Infografía Digital | Segunda parte</title>
+        <!--
+            HOLA. GRACIAS POR ASOMARTE AL CÓDIGO FUENTE. EN LO QUE SIGUE ESTOY USANDO BOOTSTRAP v5.3.3
+        -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="../style.css" rel="stylesheet">
+    </head>
+    <body>
+
+        <div class="container pb-3">
+            <article class="row align-items-center" id="zero">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h1 class="fs-2">
+                        Hola. Pueden llamarme <a href="https://faco.cl/" target="_blank">FACO</a>. <span>¶</span> Soy Académico Adjunto en la Pontificia Universidad Católica de Chile (desde el 2010) y en la Universidad de Chile (desde el 2014) <span>¶</span> Tengo un título profesional de Diseñador Gráfico (UCH) y un Magíster en Filosofía (UAH), además de Diplomados en Filosofía, en Estética y Filosofía, en Diseño de Interacción y <i>Physical Computing</i>, en Docencia Universitaria, y en Métodos Mixtos de Investigación Social <span>¶</span> Hoy me sumo a colaborar en este <a href="https://educacioncontinua.uc.cl/programas/diplomado-uc-online-infografia/" target="_blank">Diplomado en infografía</a>.
+                    </h1>
+                </div>
+                <a class="down" href="#one">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="one">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2>
+                        En nuestro módulo acotaremos la <em>infografía digital</em> a aquellas que se muestran en un navegador web. Para hacer estas infografías es necesario trabajar con <em>HTML</em>, <em>CSS</em> y <em>JavaScript</em>, lenguajes con los que se responde a cada navegador web algunas preguntas.
+                    </h2>
+                </div>
+                <a class="up" href="#zero">&uarr;</a>
+                <a class="down" href="#two">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="two">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="py-2">1ro. ¿Qué es lo que contiene esta página web?</h2> 
+                    <h3 class="py-2">Esto se responde con <em>HTML</em> (<em>H</em>yper<em>T</em>ext <em>M</em>arkup <em>L</em>anguage).</h3>
+                    <p>HTML es un lenguaje estándar que describe la estructura de las páginas web. HTML5 es la versión más reciente de este lenguaje.</p>
+                    <p>El bloque constructivo más básico del HTML es el <em>elemento</em>. Cada elemento es, generalmente, <code>&lt;etiqueta&gt;<strong>contenido</strong>&lt;/etiqueta&gt;</code></p>
+                    <p>
+                        Así, por ejemplo, un encabezado (<em>h</em>eading) de primer nivel (<em>1</em>) se describe como <code>&lt;h1&gt;<strong>el texto del título</strong>&lt;/h1&gt;</code>
+                    </p>
+                </div>
+                <a class="up" href="#one">&uarr;</a>
+                <a class="down" href="#three">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="three">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="py-2">2do. ¿Cómo muestro lo contenido por esta página?</h2>
+                    <h3 class="py-2">Esto se responde con <em>CSS</em> (<em>C</em>ascading <em>S</em>tyle <em>S</em>heets)</h3>
+                    <p>CSS es un lenguaje estándar que describe la presentación de las páginas web. CSS3 es la versión más reciente de este lenguaje.</p>
+                    <p>El bloque constructivo más básico del CSS es la <em>regla</em>. Cada regla es, generalmente: <code>selector{propiedad:valor;}</code></p>
+                    <p>Así, por ejemplo, puedo definir que el encabezado de primer nivel sea rojo <code>h1{color:red;}</code></p>
+                </div>
+                <a class="up" href="#two">&uarr;</a>
+                <a class="down" href="#four">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="four">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="py-2">3ro. ¿Qué puede hacer esta página web con su contenido?</h2>
+                    <h3 class="py-2">Esto se responde con <em>JS (JavaScript)</em>.</h3>
+                    <p>JavaScript es un lenguaje de programación que controla el comportamiento de las páginas web.</p>
+                    <p>Con JS se pueden escribir secuencias de instrucciones con las que una computadora realizará una tarea determinada. Su estructura puede variar dependiendo de la lógica de cada instrucción, la versión en uso, la library en la que nos apoyemos para resolver algo específico, o el framework de programación con el que se levanta todo el trabajo.</p>
+                    <p>Así, por ejemplo, puedo indicar que al hacer click en este <button type="button" class="btn btn-outline-danger btn-sm fw-bold" onclick="alert('Esta es una alerta')">botón</button> se muestre una alerta.</p>
+                </div>
+                <a class="up" href="#three">&uarr;</a>
+                <a class="down" href="#five">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="five">
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3"><em>CSS</em> y <em>JavaScript</em> pueden incrustarse en un <em>HTML</em></h2>
+                        <p>En un único documento <code>.html</code> se pueden incrustar los lenguajes <code>.css</code> y <code>.js</code>, entre etiquetas de HTML que los anuncien.</p>
+                        <figure>
+                            <object data="img/incrustar.svg" type="image/svg+xml" class="w-100 bg-white"></object>
+                        </figure>
+                    </div>
+                <a class="up" href="#four">&uarr;</a>
+                <a class="down" href="#six">&darr;</a>
+            </article>
+
+            <article class="row align-items-center" id="six">
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3"><em>CSS</em> y <em>JavaScript</em> pueden vincularse a un <em>HTML</em></h2>
+                        <p>Uno o varios documentos <code>.html</code> pueden vincularse a un mismo documento <code>.css</code> y también a un mismo documento <code>.js</code></p>
+                    <figure>
+                        <object data="img/relacionar.svg" type="image/svg+xml" class="w-100 bg-white"></object>
+                    </figure>
+                </div>
+                <a class="up" href="#five">&uarr;</a>
+                <a class="next fw-bold" href="../parte-2/index.html">&rarr;</a>
+
+            </article>
+
+        </div>
+
+        <script>
+            var vinculos = document.querySelectorAll("a");
+            var lapsus = document.querySelectorAll("span");
+            vinculos.forEach((x) => x.classList.add("link-secondary"));
+            lapsus.forEach((y) => y.classList.add("text-body-tertiary"));
+        </script>
+    </body>
+</html>
