@@ -68,6 +68,12 @@ En las primeras tres clases cada estudiante usará una cuenta personal en GitHub
 
 **Martes 8 de octubre de 2024** 
 
+→ Desarrollo de la propia infografía, en cuenta personal. 
+
+**Jueves 10 de octubre de 2024**
+
+Entrega final en: 
+
 → https://github.com/diplomado-infografia/francisca-castillo
 
 → https://github.com/diplomado-infografia/ana-cortes
@@ -86,4 +92,3 @@ En las primeras tres clases cada estudiante usará una cuenta personal en GitHub
 
 → https://github.com/diplomado-infografia/caterina-valenzuela
 
-**Jueves 10 de octubre de 2024 → Entrega final**
