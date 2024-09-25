@@ -18,7 +18,7 @@
 
             <article class="row align-items-center" id="zero">
                     <div class="col-11 col-md-10 mx-auto">
-                        <h2 class="fs-3">Entiendo que <em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos, pero ya <em>quiero que mi página contenga gráficas</em></h2>
+                        <h2 class="fs-3">Ya sabemos que <em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos en una página web. Ahora queremos que <em>cada página contenga gráficas</em></h2>
                         <p>Para eso usa el <code>&lt;body&gt;…&lt;/body&gt;</code> y allí dentro coloca un par de elementos HTML, sea <code>&lt;img/&gt;</code> u <code>&lt;object&gt;&lt;/object&gt;</code>.</p>
                         <p>El primero siempre va por un <em>src</em> (source), mientras el segundo va por un <em>data</em> cuyo <em>type</em> debe especificarse:</p>
                     <pre class="p-2"><code>
@@ -47,27 +47,23 @@
                         <object data="img/landscape.svg" type="image/svg+xml" class="d-none d-lg-block w-100"></object>
                     </figure>
                         <p>Una versión de la gráfica, que podemos llamar <em>portrait</em>, se muestra antes que la pantalla sea grande, mientras que otra versión, que podemos llamar <em>landscape</em>, se muestra desde la pantalla grande</p>
-                    </div>
-                <a class="up" href="#zero">&uarr;</a>
-                <a class="down" href="#two">&darr;</a>
-            </article>
-            <article class="row align-items-center">
-                    <div class="col-11 col-md-10 mx-auto">
+
                         <h2 class="fs-3">¡Tal intercambios de gráficas se puede resolver con <em>HTML y CSS trabajando juntos</em>!</h2>
+                        
                         <p>Con HTML se va por ambas gráficas. Y con CSS se le indicas a una que se muestre mientras la otra se esconde, según la pantalla.</p>
+                        
                         <p>Si usamos Bootstrap 5.3, basta con agregar algunas clases que vinculan con reglas de CSS específicas y ya definidas:</p>
+
                     <pre class="p-2"><code>
 &lt;object data="img/portrait.svg" type="image/svg+xml" class="d-lg-none"&gt;&lt;/object&gt;
 &lt;object data="img/landscape.svg" type="image/svg+xml" class="d-none d-lg-block"&gt;&lt;/object&gt;
     </code></pre>
                         <p>Y <a href="https://getbootstrap.com/">Bootstrap 5.3</a> es lo que usaremos para simplificarnos el trabajo, para no ahogarnos en detalles de CSS, pero aún contar con reglas que nos permitan intercambiar gráficas, entre varias cosas más.</p>
                     </div>
-                <a class="up" href="#one">&uarr;</a>
-                <a class="down" href="#three">&darr;</a>
             </article>
             <article class="row align-items-center">
-                <div class="col-11 col-md-10 mx-auto">
-                    <h2 class="fs-3">¿Y existen intercambios de gráficas que se rusuelvan con <em>HTML, CSS y JavaScript</em> trabajando juntos?</h2>
+                <div class="col-11 col-md-10 mx-auto mb-5 pb-5">
+                    <h2 class="fs-3">¿Y existen intercambios de gráficas que se resuelvan con <em>HTML, CSS y JavaScript</em> trabajando juntos?</h2>
                     <p>Si, y tal intercambio está «entre varias cosas más» que nos permite hacer <a href="https://getbootstrap.com/">Bootstrap 5.3</a>.</p>
                     <div id="carrusel" class="carousel slide carousel-fade mt-1 mb-4" data-bs-ride="carousel">
                         <div class="carousel-inner">
@@ -102,7 +98,7 @@
                     </div>
                     <p>Lo que ven como animación son 9 imágenes estáticas. Cada imagen está contenida en una división que es un ítem en un carrusel, y cada ítem se muestra por 500 milésimas de segundo.</p>
                 </div>
-                <a class="up" href="#two">&uarr;</a>
+                <a class="up" href="#one">&uarr;</a>
                 <a class="next" href="../parte-4/index.html">&rarr;</a>                
             </article>
         </div>
