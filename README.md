@@ -50,7 +50,7 @@ Para este módulo sería ideal contar con una doble pantalla; una para Zoom y ot
     
 ### Las cinco clases del módulo  
 
-En las primeras tres clases cada estudiante usará una [cuenta personal en GitHub](https://github.com/), y en las dos últimas cada estudiante usará una [cuenta de organización](https://github.com/diplomado-infografia) (a la que accederán sólo si ya tienen cuenta personal con acceso a la organización).
+Cada estudiante usará primero una [cuenta personal en GitHub](https://github.com/), y al final usará una [cuenta de organización](https://github.com/diplomado-infografia) (a la que accederán sólo si ya tienen cuenta personal con acceso a la organización).
 
 **Jueves 26 de septiembre de 2024**
 
