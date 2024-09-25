@@ -30,9 +30,9 @@ Lo digital, interactivo y dinámico en la WWW nos ofrecer la posibilidad de un *
 
 - Más ejemplos de lo digital, sin impreso: https://www.reuters.com/graphics/
 
-En cada ejemplo de lo digital, por el hecho de su despliegue en una página web, ustedes podrían asomarse a un código fuente. 
+En cada ejemplo de lo digital, por el hecho de su despliegue en una página web, nos podemos asomar a un código fuente. 
 
-En este módulo haremos una introducción teórico-práctica a tal código, para que puedan replantear e implementar la infografía que ya han estado trabajando.
+En este módulo haremos una introducción teórico-práctica a tal código, para que ya no sea como una "matrix", sino una base para poder replantear e implementar la infografía que ya han estado trabajando.
 
 ### Herramientas para el módulo
 
