@@ -52,25 +52,25 @@ Para este módulo sería ideal contar con una doble pantalla; una para Zoom y ot
 
 Cada estudiante usará primero una [cuenta personal en GitHub](https://github.com/), y al final usará una [cuenta de organización](https://github.com/diplomado-infografia) (a la que accederán sólo si ya tienen cuenta personal con acceso a la organización).
 
-**Jueves 26 de septiembre de 2024**
+**1ra. clase - Jueves 26 de septiembre de 2024**
 
 → Primera parte, presentación: https://profesorfaco.github.io/mid/parte-1
 
 → Segunda parte, tarea: https://profesorfaco.github.io/mid/parte-2
 
-**Martes 1 de octubre de 2024** 
+**2da. clase - Martes 1 de octubre de 2024** 
 
 → Tercera parte, gráficas rasterizadas y vectorizadas: https://profesorfaco.github.io/mid/parte-3
 
-**Jueves 3 de octubre de 2024**
+**3ra. clase - Jueves 3 de octubre de 2024**
 
 → Cuarta parte, SVG: https://profesorfaco.github.io/mid/parte-4
 
-**Martes 8 de octubre de 2024** 
+**4ta. clase - Martes 8 de octubre de 2024** 
 
 → Desarrollo de la propia infografía, en cuenta personal de GitHub 
 
-**Jueves 10 de octubre de 2024**
+**5ta. clase - Jueves 10 de octubre de 2024**
 
 Entrega final en: 
 
