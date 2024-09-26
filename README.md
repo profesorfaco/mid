@@ -22,7 +22,7 @@ En otro ejemplo es posible notar que hasta el equipo se puede replantear:
 
 ¿Puede notar que en una esquina inferior de la infografía impresa de *Bamboo curtains*, debajo de un código QR, dice *scan for a **deep dive** of this graphic online*?
 
-Lo digital, interactivo y dinámico en la WWW nos ofrecer la posibilidad de un *deep dive*. Y para tal posibilidad corresponde replantear elementos, orden, jerarquías, e incluso equipos de trabajo, tal como se pudo ver en los ejemplos recién referidos o podrán encontrar en:
+Lo digital, interactivo y dinámico en la WWW nos ofrecer la posibilidad de un *deep dive*. Y por tal posibilidad corresponde replantear elementos, orden, jerarquías, e incluso equipos de trabajo, tal como pudieron ver en los ejemplos recién referidos o podrán encontrar en:
 
 - Lo impreso: https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/
 
@@ -32,7 +32,7 @@ Lo digital, interactivo y dinámico en la WWW nos ofrecer la posibilidad de un *
 
 En cada ejemplo de lo digital, por el hecho de su despliegue en una página web, nos podemos asomar a un código fuente. 
 
-En este módulo haremos una introducción teórico-práctica a tal código, para que ya no sea como una "matrix", sino una base para poder replantear e implementar la infografía que ya han estado trabajando.
+En este módulo haremos una introducción teórico-práctica a tal código, para que ya no sea como una "matrix", sino una base más o menos legible con la que podrán implementar una infografía replanteada.
 
 ### Herramientas para el módulo
 
