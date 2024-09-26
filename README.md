@@ -80,9 +80,9 @@ Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
 → Lindsay Osorio - 
 
-→ Cristian Paz - 
+→ Cristian Paz - https://github.com/cpazm
 
-→ Bastian Sirguiado - 
+→ Bastian Sirguiado - https://github.com/sirguiado
 
 → Tamara Toledo - 
 
