@@ -68,7 +68,25 @@ Cada estudiante usará primero una [cuenta personal en GitHub](https://github.co
 
 **4ta. clase - Martes 8 de octubre de 2024** 
 
-→ Desarrollo de la propia infografía, en cuenta personal de GitHub 
+Desarrollo de la propia infografía, en cuenta personal de GitHub:
+
+→ Francisca Castillo - 
+
+→ Ana Cortés - 
+
+→ Sebastián Henriquez - https://github.com/shenriquezf
+
+→ Barbara Iriarte - 
+
+→ Lindsay Osorio - 
+
+→ Cristian Paz - 
+
+→ Bastian Sirguiado - 
+
+→ Tamara Toledo - 
+
+→ Caterina Valenzuela - https://github.com/catelate
 
 **5ta. clase - Jueves 10 de octubre de 2024**
 
