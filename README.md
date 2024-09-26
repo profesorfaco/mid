@@ -84,7 +84,7 @@ Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
 → Bastian Sirguiado - https://github.com/sirguiado
 
-→ Tamara Toledo - 
+→ Tamara Toledo - https://github.com/TamaraCarol
 
 → Caterina Valenzuela - https://github.com/catelate
 
