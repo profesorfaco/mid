@@ -78,7 +78,7 @@ Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
 → Barbara Iriarte - 
 
-→ Lindsay Osorio - 
+→ Lindsay Osorio - https://github.com/Losorio24
 
 → Cristian Paz - https://github.com/cpazm
 
