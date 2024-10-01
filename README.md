@@ -70,7 +70,7 @@ Cada estudiante usará primero una [cuenta personal en GitHub](https://github.co
 
 Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
-→ Francisca Castillo - 
+→ Francisca Castillo - https://github.com/frvncvstillo
 
 → Ana Cortés - https://github.com/Annilunni
 
