@@ -109,9 +109,9 @@
 
                     <h2 class="text-center">El SVG</h2>
 
-                    <p>El SVG se parece al HTML. Mientras el HTML es un lenguaje que marca el hipertexto para describirlo, el SVG es un dialecto de marca la gráfica escalable para describirla (SVG es sigla de Scalable Vector Graphics).</p>
+                    <p>El SVG se parece al HTML, son de la misma familia "ML". Mientras el HTML es un lenguaje que marca el hipertexto para describirlo, el SVG es un dialecto que marca la gráfica escalable para describirla (SVG es sigla de Scalable Vector Graphics).</p>
 
-                    <p>El SVG puede ser incrustado en un HTML, tal como se puede hacer con el CSS y el JavaScript:</p>
+                    <p>El SVG puede ser incrustado en un HTML tal como el CSS o el JavaScript, entre etiquetas que lo anuncien:</p>
 
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
                         <title>13_Not_allowed_v15</title>
@@ -120,7 +120,7 @@
                         ></path>
                     </svg>
 
-                    <p>Y mientras se mantiene independiente, como un documento de extensión SVG, puede ser incluido en el HTML como un objeto (<code>&lt;object&gt;&lt;/object&gt;</code>) de un tipo determinado:</p>
+                    <p>También puede tratarse como un documento de extensión SVG, que puede ser incluido en el HTML como un objeto (<code>&lt;object&gt;&lt;/object&gt;</code>) de un tipo determinado:</p>
 
                     <object data="img/alto.svg" type="image/svg+xml"></object>
 
@@ -129,6 +129,11 @@
                     <img src="img/alto.svg" />
 
                     <p>Las descripciones perdidas son también textos perdidos: ¡Ya no son seleccionables ni legibles para un buscador! Tal como los textos en las imágenes y videos para el carrusel en Instagram.</p>
+
+                    <p>Debido a tal pérdida es importante tomar la decisión respecto del uso y modo de incluir el SVG en una infografía digital. Conviene que el uso como mera referencia visual se deje a las imágenes rasterizadas, tal como la que está al final de esta página (que es puesta allí como un fondo desde el CSS).</p>
+
+                    <p>A propósito de poner allí una rasterizada, SVG también nos entrega la posibilidad colocar dentro suyo un JPG, PNG o WebP, lo que nos permite trabajar de mejor manera con los pesos de los archivos: ¡No tenemos que trazar con varita mágica la imagen rasterizada para luego sumar textos, líneas y otros elementos gráficos vectorizados sobre ella! Basta con incrustarla.</p>
+
 
                 </article>
             </main>
