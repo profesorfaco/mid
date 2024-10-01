@@ -72,7 +72,7 @@ Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
 → Francisca Castillo - 
 
-→ Ana Cortés - 
+→ Ana Cortés - https://github.com/Annilunni
 
 → Sebastián Henriquez - https://github.com/shenriquezf
 
