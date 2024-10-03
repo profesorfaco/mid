@@ -1,3 +1,173 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1300">
-<rect x="0" y="0" width="1200" height="1300" fill="silver"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2304.23 2888.85">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 31px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-1, .cls-4, .cls-3 {
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Poppins-Medium, Poppins;
+      }
+
+      .cls-2 {
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #453a36;
+        font-family: BarlowSemiCondensed-Medium, 'Barlow Semi Condensed';
+        font-size: 5.25px;
+      }
+
+      .cls-6 {
+        stroke: #1d1d1b;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        font-size: 22px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="INFO">
+      <text class="cls-2" transform="translate(142.38 1422.73)"><tspan x="0" y="0">Palacio de </tspan><tspan x="0" y="37.2">La Moneda</tspan></text>
+      <text class="cls-1" transform="translate(458.67 265.13)"><tspan x="0" y="0">1 Inicio</tspan></text>
+      <text class="cls-1" transform="translate(824.98 265.13)"><tspan x="0" y="0">1.1 Planificación</tspan></text>
+      <text class="cls-1" transform="translate(824.98 496.07)"><tspan x="0" y="0">1.2 Inauguración</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 1128.95)"><tspan x="0" y="0">carrusel con </tspan><tspan x="0" y="26.4">imágenes de los </tspan><tspan x="0" y="52.8">presidentes</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 1768.08)"><tspan x="0" y="0">carrusel con </tspan><tspan x="0" y="26.4">imágenes </tspan><tspan x="0" y="52.8">Palacio </tspan><tspan x="0" y="79.2">destruido</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 2182.49)"><tspan x="0" y="0">Imagen tamaño </tspan><tspan x="0" y="26.4">pantalla para </tspan><tspan x="0" y="52.8">generar quiebre</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 1308.43)"><tspan x="0" y="0">Imagen tamaño </tspan><tspan x="0" y="26.4">pantalla para </tspan><tspan x="0" y="52.8">generar quiebre</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 324.43)"><tspan x="0" y="0">Imagen tamaño </tspan><tspan x="0" y="26.4">pantalla donde el titular </tspan><tspan x="0" y="52.8">podría desaparecer </tspan><tspan x="0" y="79.2">escondido en la imagen</tspan></text>
+      <text class="cls-3" transform="translate(1823.77 2601.51)"><tspan x="0" y="0">carrusel con </tspan><tspan x="0" y="26.4">imágenes </tspan><tspan x="0" y="52.8">Museo</tspan></text>
+      <text class="cls-1" transform="translate(824.98 974.07)"><tspan x="0" y="0">1.4 Presidentes</tspan></text>
+      <text class="cls-1" transform="translate(824.98 1178.15)"><tspan x="0" y="0">2.1 Allende</tspan></text>
+      <text class="cls-1" transform="translate(824.98 1422.73)"><tspan x="0" y="0">2.2 Golpe </tspan></text>
+      <text class="cls-1" transform="translate(824.98 1648.73)"><tspan x="0" y="0">2.3 Reconstrucción</tspan></text>
+      <text class="cls-1" transform="translate(824.98 1849.68)"><tspan x="0" y="0">2.4 Vuelta a la </tspan><tspan x="0" y="37.2">democracia</tspan></text>
+      <text class="cls-1" transform="translate(824.98 2290.16)"><tspan x="0" y="0">3.1 Hoy</tspan></text>
+      <text class="cls-1" transform="translate(824.98 2606.73)"><tspan x="0" y="0">3.2 Museo</tspan></text>
+      <text class="cls-1" transform="translate(824.98 701.78)"><tspan x="0" y="0">1.3 Taller de </tspan><tspan x="0" y="37.2">monedas</tspan></text>
+      <text class="cls-1" transform="translate(458.67 1426.86)"><tspan x="0" y="0">2 Golpe de </tspan><tspan x="0" y="37.2">Estado</tspan></text>
+      <text class="cls-1" transform="translate(458.67 2605.23)"><tspan x="0" y="0">3 Actualidad</tspan></text>
+      <polyline class="cls-6" points="430.53 253.51 390.73 253.51 390.73 2595.63 430.53 2595.63"/>
+      <polyline class="cls-6" points="782.56 253.51 742.76 253.51 742.76 967.94 782.56 967.94"/>
+      <polyline class="cls-6" points="782.56 1163.18 742.76 1163.18 742.76 1877.61 782.56 1877.61"/>
+      <polyline class="cls-6" points="782.56 2267.22 742.76 2267.22 742.76 2610.2 782.56 2610.2"/>
+      <line class="cls-6" x1="422.56" y1="1424.57" x2="390.73" y2="1424.57"/>
+      <text class="cls-4" transform="translate(1384.24 502.03) scale(.97 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="6.3">nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam </tspan><tspan x="0" y="12.6">erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="18.9">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo </tspan><tspan x="0" y="25.2">consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="31.5">velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="37.8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="44.1">praesent luptatum zzril delenit augue duis dolore te feugait nulla </tspan></text>
+      <text class="cls-4" transform="translate(1312.79 767.45) scale(.97 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="6.3">nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam </tspan><tspan x="0" y="12.6">erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="18.9">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo </tspan><tspan x="0" y="25.2">consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="31.5">velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="37.8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="44.1">praesent luptatum zzril delenit augue duis dolore te feugait nulla </tspan></text>
+      <text class="cls-4" transform="translate(1385.34 1032.87) scale(.97 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="6.3">nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam </tspan><tspan x="0" y="12.6">erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="18.9">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo </tspan><tspan x="0" y="25.2">consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="31.5">velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="37.8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="44.1">praesent luptatum zzril delenit augue duis dolore te feugait nulla </tspan></text>
+      <g>
+        <rect class="cls-5" x="1349.06" y="582.83" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="582.83" x2="1349.06" y2="705.52"/>
+        <line class="cls-5" x1="1349.06" y1="582.83" x2="1557.96" y2="705.52"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1244.62" y="218.53" width="418.88" height="246.54"/>
+        <line class="cls-5" x1="1663.5" y1="218.53" x2="1244.62" y2="465.08"/>
+        <line class="cls-5" x1="1244.62" y1="218.53" x2="1663.5" y2="465.08"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1349.06" y="880.15" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="880.15" x2="1349.06" y2="1002.84"/>
+        <line class="cls-5" x1="1349.06" y1="880.15" x2="1557.96" y2="1002.84"/>
+      </g>
+      <text class="cls-4" transform="translate(1385.34 1647.2) scale(.97 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="6.3">nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam </tspan><tspan x="0" y="12.6">erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="18.9">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo </tspan><tspan x="0" y="25.2">consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="31.5">velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="37.8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="44.1">praesent luptatum zzril delenit augue duis dolore te feugait nulla </tspan></text>
+      <g>
+        <rect class="cls-5" x="1349.06" y="1494.49" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="1494.49" x2="1349.06" y2="1617.18"/>
+        <line class="cls-5" x1="1349.06" y1="1494.49" x2="1557.96" y2="1617.18"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1349.06" y="2364.9" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="2364.9" x2="1349.06" y2="2487.59"/>
+        <line class="cls-5" x1="1349.06" y1="2364.9" x2="1557.96" y2="2487.59"/>
+      </g>
+      <text class="cls-4" transform="translate(1385.34 1883.61) scale(.97 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="6.3">nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam </tspan><tspan x="0" y="12.6">erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="18.9">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo </tspan><tspan x="0" y="25.2">consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="31.5">velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="37.8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="44.1">praesent luptatum zzril delenit augue duis dolore te feugait nulla </tspan></text>
+      <g>
+        <rect class="cls-5" x="1349.06" y="1730.9" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="1730.9" x2="1349.06" y2="1853.59"/>
+        <line class="cls-5" x1="1349.06" y1="1730.9" x2="1557.96" y2="1853.59"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1313.88" y="1967.31" width="138.53" height="122.69"/>
+        <line class="cls-5" x1="1452.42" y1="1967.31" x2="1313.88" y2="2090"/>
+        <line class="cls-5" x1="1313.88" y1="1967.31" x2="1452.42" y2="2090"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1454.6" y="1967.31" width="138.53" height="122.69"/>
+        <line class="cls-5" x1="1593.14" y1="1967.31" x2="1454.6" y2="2090"/>
+        <line class="cls-5" x1="1454.6" y1="1967.31" x2="1593.14" y2="2090"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1244.62" y="1246.43" width="418.88" height="192.46"/>
+        <line class="cls-5" x1="1663.5" y1="1246.43" x2="1244.62" y2="1438.89"/>
+        <line class="cls-5" x1="1244.62" y1="1246.43" x2="1663.5" y2="1438.89"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1244.62" y="2128.49" width="418.88" height="192.46"/>
+        <line class="cls-5" x1="1663.5" y1="2128.49" x2="1244.62" y2="2320.95"/>
+        <line class="cls-5" x1="1244.62" y1="2128.49" x2="1663.5" y2="2320.95"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1472.19" y="752.7" width="120.94" height="71.03"/>
+        <line class="cls-5" x1="1593.14" y1="752.7" x2="1472.19" y2="823.73"/>
+        <line class="cls-5" x1="1472.19" y1="752.7" x2="1593.14" y2="823.73"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1313.88" y="1122.7" width="68.17" height="68.12"/>
+        <line class="cls-5" x1="1382.06" y1="1122.7" x2="1313.88" y2="1190.83"/>
+        <line class="cls-5" x1="1313.88" y1="1122.7" x2="1382.06" y2="1190.83"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1384.24" y="1122.7" width="68.17" height="68.12"/>
+        <line class="cls-5" x1="1452.42" y1="1122.7" x2="1384.24" y2="1190.83"/>
+        <line class="cls-5" x1="1384.24" y1="1122.7" x2="1452.42" y2="1190.83"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1454.6" y="1122.7" width="68.17" height="68.12"/>
+        <line class="cls-5" x1="1522.78" y1="1122.7" x2="1454.6" y2="1190.83"/>
+        <line class="cls-5" x1="1454.6" y1="1122.7" x2="1522.78" y2="1190.83"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="1524.96" y="1122.7" width="68.17" height="68.12"/>
+        <line class="cls-5" x1="1593.14" y1="1122.7" x2="1524.96" y2="1190.83"/>
+        <line class="cls-5" x1="1524.96" y1="1122.7" x2="1593.14" y2="1190.83"/>
+      </g>
+      <polyline class="cls-5" points="1365.56 1784.7 1356.76 1793.5 1365.56 1802.3"/>
+      <polyline class="cls-5" points="1541.46 1802.3 1550.26 1793.5 1541.46 1784.7"/>
+      <g>
+        <rect class="cls-5" x="1349.06" y="2564.33" width="208.89" height="122.69"/>
+        <line class="cls-5" x1="1557.96" y1="2564.33" x2="1349.06" y2="2687.02"/>
+        <line class="cls-5" x1="1349.06" y1="2564.33" x2="1557.96" y2="2687.02"/>
+      </g>
+      <polyline class="cls-5" points="1365.56 2618.13 1356.76 2626.93 1365.56 2635.73"/>
+      <polyline class="cls-5" points="1541.46 2635.73 1550.26 2626.93 1541.46 2618.13"/>
+      <polyline class="cls-5" points="1308.18 1150.13 1299.38 1158.93 1308.18 1167.73"/>
+      <polyline class="cls-5" points="1598.27 1167.73 1607.08 1158.93 1598.27 1150.13"/>
+      <rect class="cls-5" x="1243.52" y="218.53" width="419.97" height="2562.52"/>
+    </g>
+  </g>
 </svg>
