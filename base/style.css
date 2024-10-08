@@ -1,0 +1,28 @@
+/* importando las fuente */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Serif+Display:ital@0;1&display=swap");
+/* para ajustar el ancho de párrafos */
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+:root {
+    --bs-font-sans-serif: "Barlow Semi Condensed", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+}
+
+/* para ajustar algo que queda lost in translation */
+em,
+cite {
+    font-weight: 600;
+    font-style: normal;
+}
