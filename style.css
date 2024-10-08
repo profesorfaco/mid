@@ -1,99 +1,28 @@
-@media (min-width: 992px) {
+/* importando las fuente */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Serif+Display:ital@0;1&display=swap");
+/* para ajustar el ancho de párrafos */
+@media (min-width: 768px) {
     .container {
-        max-width: 960px;
+        max-width: 720px;
     }
 }
-
-html,
-body {
-    min-height: 100%;
-    background: linear-gradient(#f5f5f5, #fafafa);
+:root {
+    --bs-font-sans-serif: "Barlow Semi Condensed", sans-serif;
 }
 
-article {
-    min-height: 98vh;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    position: relative;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
 }
 
-article p {
-    font-size: calc(1rem + 0.5vw);
-}
-
-article summary, article ul li, article code  {
-    font-size: calc(1rem + 0.25vw);
-}
-
-em {
+/* para ajustar algo que queda lost in translation */
+em,
+cite {
+    font-weight: 600;
     font-style: normal;
-    font-weight: bold;
 }
-
-
-div {
-    position: relative;
-}
-
-pre{
-    background:#eee;
-    box-shadow: inset 0 0 3px #ddd;
-    margin-left: -1rem;
-    margin-right: -1rem;
-}
-
-figure {
-    margin-left: -1rem;
-    margin-right: -1rem;
-}
-
-a.down,
-a.up {
-    text-decoration: none;
-    border: 1px solid silver;
-    border-radius: 5px 5px 5px 5px;
-    position: absolute;
-    bottom: 1rem;
-    right: 2vw;
-    padding: 5px;
-    width: 2.25rem;
-    text-align: center;
-    box-shadow: 0 0 3px #ddd;
-}
-
-a.down:hover,
-a.up:hover {
-    box-shadow: inset 0 0 3px #ccc, 0 0 0 #ddd;
-    background: #eee;
-}
-
-a.up {
-    bottom: 4rem;
-}
-
-
-a.back,
-a.next {
-    text-decoration: none;
-    border: 1px solid #000;
-    border-radius: 5px 5px 5px 5px;
-    position: absolute;
-    bottom: 1rem;
-    right: 2vw;
-    padding: 5px;
-    width: 2.25rem;
-    text-align: center;
-    box-shadow: 0 0 3px #ddd;
-    background:#222;
-}
-
-a.back {
-    bottom: 4rem;
-}
-
-a.next:hover,
-a.back:hover {
-    box-shadow: inset 0 0 3px #111, 0 0 0 #ddd;
-    background: #111;
-}
-
