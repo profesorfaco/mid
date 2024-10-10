@@ -94,7 +94,7 @@ Entrega final en:
 
 → https://github.com/diplomado-infografia/francisca-castillo
 
-→ https://github.com/diplomado-infografia/ana-cortes
+→ https://github.com/diplomado-infografia/ani-cortes
 
 → https://github.com/diplomado-infografia/sebastian-henriquez
 
