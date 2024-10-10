@@ -70,23 +70,23 @@ Cada estudiante usará primero una [cuenta personal en GitHub](https://github.co
 
 Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
-→ Francisca Castillo - https://github.com/frvncvstillo
+→ Francisca Castillo - https://github.com/frvncvstillo/base - 
 
-→ Ana Cortés - https://github.com/Annilunni
+→ Ana Cortés - https://github.com/Annilunni/base - 
 
-→ Sebastián Henriquez - https://github.com/shenriquezf
+→ Sebastián Henriquez - https://github.com/shenriquezf/base - 
 
-→ Barbara Iriarte - https://github.com/barbiiriarte
+→ Barbara Iriarte - https://github.com/barbiiriarte/base - 
 
-→ Lindsay Osorio - https://github.com/Losorio24
+→ Lindsay Osorio - https://github.com/Losorio24/base - 
 
-→ Cristian Paz - https://github.com/cpazm
+→ Cristian Paz - https://github.com/cpazm/base - 
 
-→ Bastian Sirguiado - https://github.com/sirguiado
+→ Bastian Sirguiado - https://github.com/sirguiado/base - 
 
-→ Tamara Toledo - https://github.com/TamaraCarol
+→ Tamara Toledo - https://github.com/TamaraCarol/base - 
 
-→ Caterina Valenzuela - https://github.com/catelate
+→ Caterina Valenzuela - https://github.com/catelate/base - 
 
 **5ta. clase - Jueves 10 de octubre de 2024**
 
