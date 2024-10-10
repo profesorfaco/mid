@@ -70,23 +70,23 @@ Cada estudiante usará primero una [cuenta personal en GitHub](https://github.co
 
 Desarrollo de la propia infografía, en cuenta personal de GitHub:
 
-→ Francisca Castillo - https://github.com/frvncvstillo/base - 
+→ Francisca Castillo - https://github.com/frvncvstillo/base - https://frvncvstillo.github.io/base/
 
-→ Ana Cortés - https://github.com/Annilunni/base - 
+→ Ana Cortés - https://github.com/Annilunni/base - https://annilunni.github.io/base/
 
-→ Sebastián Henriquez - https://github.com/shenriquezf/base - 
+→ Sebastián Henriquez - https://github.com/shenriquezf/base - https://shenriquezf.github.io/base/
 
-→ Barbara Iriarte - https://github.com/barbiiriarte/base - 
+→ Barbara Iriarte - https://github.com/barbiiriarte/base - https://barbiiriarte.github.io/base/
 
-→ Lindsay Osorio - https://github.com/Losorio24/base - 
+→ Lindsay Osorio - https://github.com/Losorio24/base - https://losorio24.github.io/base/
 
-→ Cristian Paz - https://github.com/cpazm/base - 
+→ Cristian Paz - https://github.com/cpazm/base - https://cpazm.github.io/base/
 
-→ Bastian Sirguiado - https://github.com/sirguiado/base - 
+→ Bastian Sirguiado - https://github.com/sirguiado/base - https://sirguiado.github.io/base/
 
-→ Tamara Toledo - https://github.com/TamaraCarol/base - 
+→ Tamara Toledo - https://github.com/TamaraCarol/base - https://tamaracarol.github.io/base/
 
-→ Caterina Valenzuela - https://github.com/catelate/base - 
+→ Caterina Valenzuela - https://github.com/catelate/base - https://catelate.github.io/base/
 
 **5ta. clase - Jueves 10 de octubre de 2024**
 
